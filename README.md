@@ -11,6 +11,10 @@ After that everythign that happened to my carrer was driven by my passion for le
 
 
 ## What have I been working lately with
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocecchetti&hide=html,css&layout=compact >
+</p>
+
 ##### Backend:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -31,3 +35,6 @@ After that everythign that happened to my carrer was driven by my passion for le
 ![image](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![image](https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff)
 ![image](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+
+
+
